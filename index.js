@@ -31,6 +31,6 @@ function iLoveTheBeatles(number) {
     return arr1;
   }
   else {
-    return 
+    return
   }
 }
