@@ -1,5 +1,5 @@
 function theBeatlesPlay(musicians, instruments){
-  var arr1[];
+  var arr1 = [];
   var i;
   var musiciansLength = musicians.length;
   var instrumentsLength = instruments.length;
@@ -17,4 +17,8 @@ function johnLennonFacts(facts){
     i++;
   }
   return facts;
+}
+
+function iLoveTheBeatles(number) {
+  var arr1 = [];
 }
