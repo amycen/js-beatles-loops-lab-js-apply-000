@@ -7,4 +7,5 @@ function theBeatlesPlay(musicians, instruments){
   for (i = 0; i < Math.min(musiciansLength, instrumentsLength); i++) {
     arr1[i] = musicians[i] + " plays " + instruments[i];
   }
+  return arr1;
 }
