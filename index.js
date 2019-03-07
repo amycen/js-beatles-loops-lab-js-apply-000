@@ -28,9 +28,9 @@ function iLoveTheBeatles(number) {
       i++;
     }
     while (15 - number - i > 0);
-    return arr1;
-  }
-  else {
-    return
+//    return arr1;
+  //}
+  //else {
+  //  return
   }
 }
